@@ -1,0 +1,1 @@
+# mailingcore-sdk
