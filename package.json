@@ -1,6 +1,6 @@
 {
   "name": "mailingcore-js",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "MailingCore SDK — send transactional emails from JavaScript/TypeScript",
   "license": "MIT",
   "author": "FastCore Solutions",
